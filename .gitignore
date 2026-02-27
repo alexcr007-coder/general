@@ -22,3 +22,4 @@ sessions_raw.xml
 shots_getSessionShots.xml
 all_sessions.xml
 session_api_calls.json
+.claude_context/history.jsonl
