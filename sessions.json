@@ -1,0 +1,954 @@
+[
+  {
+    "sessionID": "9149941",
+    "displayName": "Tuesday, 02:40 PM",
+    "createDate": "2026-02-24 22:41:03",
+    "appVersion": "iOS_FS Golf_9.5.0",
+    "location": "",
+    "sessionTypeID": "17"
+  },
+  {
+    "sessionID": "9112535",
+    "displayName": "17-Feb-2026 04:12 PM",
+    "createDate": "2026-02-18 00:17:58",
+    "appVersion": "Android_FSGolf_8.5.21",
+    "location": "38.359253,-122.483444",
+    "sessionTypeID": "17"
+  },
+  {
+    "sessionID": "9117036",
+    "displayName": "Monday, 05:22 PM",
+    "createDate": "2026-02-17 01:22:59",
+    "appVersion": "iOS_FS Golf_9.5.0",
+    "location": "",
+    "sessionTypeID": "17"
+  },
+  {
+    "sessionID": "9095402",
+    "displayName": "13-Feb-2026 02:51 PM",
+    "createDate": "2026-02-13 22:51:54",
+    "appVersion": "Android_FSGolf_8.5.21",
+    "location": "38.35934,-122.48347",
+    "sessionTypeID": "17"
+  },
+  {
+    "sessionID": "9117045",
+    "displayName": "Thursday, 12:32 PM",
+    "createDate": "2026-02-12 20:33:18",
+    "appVersion": "iOS_FS Golf_9.5.0",
+    "location": "",
+    "sessionTypeID": "17"
+  },
+  {
+    "sessionID": "9085364",
+    "displayName": "11-Feb-2026 05:09 PM",
+    "createDate": "2026-02-12 01:10:23",
+    "appVersion": "Android_FSGolf_8.5.21",
+    "location": "38.359318,-122.483376",
+    "sessionTypeID": "17"
+  },
+  {
+    "sessionID": "9069679",
+    "displayName": "Friday, 09:50 AM",
+    "createDate": "2026-02-06 17:50:45",
+    "appVersion": "iOS_FS Golf_9.4.36",
+    "location": "",
+    "sessionTypeID": "17"
+  },
+  {
+    "sessionID": "9044586",
+    "displayName": "Monday, 04:01 PM",
+    "createDate": "2026-02-03 00:01:07",
+    "appVersion": "iOS_FS Golf_9.4.36",
+    "location": "",
+    "sessionTypeID": "17"
+  },
+  {
+    "sessionID": "9031060",
+    "displayName": "Friday, 04:21 PM",
+    "createDate": "2026-01-31 00:21:25",
+    "appVersion": "iOS_FS Golf_9.4.36",
+    "location": "",
+    "sessionTypeID": "17"
+  },
+  {
+    "sessionID": "9022522",
+    "displayName": "Wednesday, 03:22 PM",
+    "createDate": "2026-01-28 23:22:54",
+    "appVersion": "iOS_FS Golf_9.4.36",
+    "location": "",
+    "sessionTypeID": "17"
+  },
+  {
+    "sessionID": "9022523",
+    "displayName": "Tuesday, 01:58 PM",
+    "createDate": "2026-01-27 21:58:42",
+    "appVersion": "iOS_FS Golf_9.4.36",
+    "location": "",
+    "sessionTypeID": "17"
+  },
+  {
+    "sessionID": "9014108",
+    "displayName": "Monday, 07:12 PM",
+    "createDate": "2026-01-27 03:13:22",
+    "appVersion": "iOS_FS Golf_9.4.36",
+    "location": "",
+    "sessionTypeID": "17"
+  },
+  {
+    "sessionID": "8996038",
+    "displayName": "Thursday, 11:10 AM",
+    "createDate": "2026-01-22 19:10:06",
+    "appVersion": "iOS_FS Golf_9.4.36",
+    "location": "",
+    "sessionTypeID": "17"
+  },
+  {
+    "sessionID": "8991561",
+    "displayName": "Wednesday, 10:38 AM",
+    "createDate": "2026-01-21 18:39:20",
+    "appVersion": "iOS_FS Golf_9.4.36",
+    "location": "",
+    "sessionTypeID": "17"
+  },
+  {
+    "sessionID": "8987246",
+    "displayName": "Tuesday, 10:11 AM",
+    "createDate": "2026-01-20 18:11:04",
+    "appVersion": "iOS_FS Golf_9.4.26",
+    "location": "",
+    "sessionTypeID": "17"
+  },
+  {
+    "sessionID": "8987366",
+    "displayName": "Tuesday, 09:33 AM",
+    "createDate": "2026-01-20 17:33:51",
+    "appVersion": "iOS_FS Golf_9.4.36",
+    "location": "",
+    "sessionTypeID": "17"
+  },
+  {
+    "sessionID": "8985084",
+    "displayName": "Monday, 08:41 PM",
+    "createDate": "2026-01-20 04:41:38",
+    "appVersion": "iOS_FS Golf_9.4.26",
+    "location": "",
+    "sessionTypeID": "17"
+  },
+  {
+    "sessionID": "8985086",
+    "displayName": "Friday, 04:13 PM",
+    "createDate": "2026-01-17 00:14:06",
+    "appVersion": "iOS_FS Golf_9.4.26",
+    "location": "",
+    "sessionTypeID": "17"
+  },
+  {
+    "sessionID": "8985096",
+    "displayName": "Wednesday, 11:24 AM",
+    "createDate": "2026-01-14 19:25:18",
+    "appVersion": "iOS_FS Golf_9.4.26",
+    "location": "",
+    "sessionTypeID": "17"
+  },
+  {
+    "sessionID": "8954183",
+    "displayName": "Monday, 04:11 PM",
+    "createDate": "2026-01-13 00:13:50",
+    "appVersion": "iOS_FS Golf_9.4.26",
+    "location": "",
+    "sessionTypeID": "17"
+  },
+  {
+    "sessionID": "8953416",
+    "displayName": "Monday, 12:31 PM",
+    "createDate": "2026-01-12 20:32:25",
+    "appVersion": "iOS_FS Golf_9.4.8",
+    "location": "",
+    "sessionTypeID": "17"
+  },
+  {
+    "sessionID": "8939797",
+    "displayName": "Thursday, 05:28 PM",
+    "createDate": "2026-01-09 01:29:07",
+    "appVersion": "iOS_FS Golf_9.4.8",
+    "location": "",
+    "sessionTypeID": "17"
+  },
+  {
+    "sessionID": "8936774",
+    "displayName": "Wednesday, 09:35 AM",
+    "createDate": "2026-01-07 17:36:35",
+    "appVersion": "iOS_FS Golf_9.4.8",
+    "location": "",
+    "sessionTypeID": "17"
+  },
+  {
+    "sessionID": "8931711",
+    "displayName": "Monday, 04:25 PM",
+    "createDate": "2026-01-06 00:25:27",
+    "appVersion": "iOS_FS Golf_9.4.8",
+    "location": "",
+    "sessionTypeID": "17"
+  },
+  {
+    "sessionID": "8936375",
+    "displayName": "Friday, 01:12 PM",
+    "createDate": "2026-01-02 21:13:04",
+    "appVersion": "iOS_FS Golf_9.4.8",
+    "location": "",
+    "sessionTypeID": "17"
+  },
+  {
+    "sessionID": "8936378",
+    "displayName": "Friday, 12:27 PM",
+    "createDate": "2026-01-02 20:28:10",
+    "appVersion": "iOS_FS Golf_9.4.8",
+    "location": "",
+    "sessionTypeID": "17"
+  },
+  {
+    "sessionID": "8936381",
+    "displayName": "Tuesday, 12:05 PM",
+    "createDate": "2025-12-23 20:25:25",
+    "appVersion": "iOS_FS Golf_9.4.8",
+    "location": "",
+    "sessionTypeID": "17"
+  },
+  {
+    "sessionID": "8936405",
+    "displayName": "Monday, 11:54 AM",
+    "createDate": "2025-12-22 19:56:59",
+    "appVersion": "iOS_FS Golf_9.4.8",
+    "location": "",
+    "sessionTypeID": "17"
+  },
+  {
+    "sessionID": "8936410",
+    "displayName": "Saturday, 01:30 PM",
+    "createDate": "2025-12-20 21:30:18",
+    "appVersion": "iOS_FS Golf_9.4.8",
+    "location": "",
+    "sessionTypeID": "17"
+  },
+  {
+    "sessionID": "8936414",
+    "displayName": "Saturday, 12:36 PM",
+    "createDate": "2025-12-20 20:37:47",
+    "appVersion": "iOS_FS Golf_9.4.8",
+    "location": "",
+    "sessionTypeID": "17"
+  },
+  {
+    "sessionID": "8865940",
+    "displayName": "Thursday, 11:07 AM",
+    "createDate": "2025-12-18 19:07:46",
+    "appVersion": "iOS_FS Golf_9.4.4",
+    "location": "",
+    "sessionTypeID": "17"
+  },
+  {
+    "sessionID": "8936798",
+    "displayName": "Thursday, 11:04 AM",
+    "createDate": "2025-12-18 19:04:52",
+    "appVersion": "iOS_FS Golf_9.4.8",
+    "location": "",
+    "sessionTypeID": "17"
+  },
+  {
+    "sessionID": "8936800",
+    "displayName": "Sunday, 03:13 PM",
+    "createDate": "2025-12-14 23:15:14",
+    "appVersion": "iOS_FS Golf_9.4.8",
+    "location": "",
+    "sessionTypeID": "17"
+  },
+  {
+    "sessionID": "8954190",
+    "displayName": "Wednesday, 07:29 PM",
+    "createDate": "2025-12-11 03:29:42",
+    "appVersion": "iOS_FS Golf_9.4.26",
+    "location": "",
+    "sessionTypeID": "17"
+  },
+  {
+    "sessionID": "8958031",
+    "displayName": "Monday, 12:04 PM",
+    "createDate": "2025-12-08 20:04:41",
+    "appVersion": "iOS_FS Golf_9.4.26",
+    "location": "",
+    "sessionTypeID": "17"
+  },
+  {
+    "sessionID": "8958044",
+    "displayName": "Sunday, 01:27 PM",
+    "createDate": "2025-12-07 21:27:22",
+    "appVersion": "iOS_FS Golf_9.4.26",
+    "location": "",
+    "sessionTypeID": "17"
+  },
+  {
+    "sessionID": "8958060",
+    "displayName": "Friday, 04:27 PM",
+    "createDate": "2025-12-06 00:30:54",
+    "appVersion": "iOS_FS Golf_9.4.26",
+    "location": "",
+    "sessionTypeID": "17"
+  },
+  {
+    "sessionID": "8805611",
+    "displayName": "Tuesday, 02:50 PM",
+    "createDate": "2025-12-02 22:52:58",
+    "appVersion": "iOS_FS Golf_9.4.8",
+    "location": "",
+    "sessionTypeID": "17"
+  },
+  {
+    "sessionID": "8805686",
+    "displayName": "Tuesday, 11:37 AM",
+    "createDate": "2025-12-02 19:37:44",
+    "appVersion": "iOS_FS Golf_9.4.4",
+    "location": "",
+    "sessionTypeID": "17"
+  },
+  {
+    "sessionID": "8805649",
+    "displayName": "Sunday, 02:48 PM",
+    "createDate": "2025-11-23 22:48:43",
+    "appVersion": "iOS_FS Golf_9.4.4",
+    "location": "",
+    "sessionTypeID": "17"
+  },
+  {
+    "sessionID": "8805691",
+    "displayName": "Friday, 01:13 PM",
+    "createDate": "2025-11-21 21:13:27",
+    "appVersion": "iOS_FS Golf_9.4.4",
+    "location": "",
+    "sessionTypeID": "17"
+  },
+  {
+    "sessionID": "8746611",
+    "displayName": "Saturday, 09:38 PM",
+    "createDate": "2025-11-09 05:38:19",
+    "appVersion": "iOS_FS Golf_9.3.30",
+    "location": "",
+    "sessionTypeID": "17"
+  },
+  {
+    "sessionID": "8713923",
+    "displayName": "Monday, 08:46 PM",
+    "createDate": "2025-11-04 04:47:34",
+    "appVersion": "iOS_FS Golf_9.3.30",
+    "location": "",
+    "sessionTypeID": "17"
+  },
+  {
+    "sessionID": "8985100",
+    "displayName": "Wednesday, 11:32 AM",
+    "createDate": "2025-10-22 18:33:05",
+    "appVersion": "iOS_FS Golf_9.4.26",
+    "location": "",
+    "sessionTypeID": "17"
+  },
+  {
+    "sessionID": "8658591",
+    "displayName": "Tuesday, 02:24 PM",
+    "createDate": "2025-10-21 21:24:48",
+    "appVersion": "iOS_FS Golf_9.3.30",
+    "location": "",
+    "sessionTypeID": "17"
+  },
+  {
+    "sessionID": "8523964",
+    "displayName": "Wednesday, 09:06 PM",
+    "createDate": "2025-09-04 04:06:33",
+    "appVersion": "iOS_FS Golf_9.3.19",
+    "location": "",
+    "sessionTypeID": "17"
+  },
+  {
+    "sessionID": "8413516",
+    "displayName": "Tuesday, 08:26 PM",
+    "createDate": "2025-08-06 03:26:54",
+    "appVersion": "iOS_FS Golf_9.3.2",
+    "location": "",
+    "sessionTypeID": "17"
+  },
+  {
+    "sessionID": "8987537",
+    "displayName": "Thursday, 03:12 PM",
+    "createDate": "2025-07-31 22:12:07",
+    "appVersion": "iOS_FS Golf_9.4.36",
+    "location": "",
+    "sessionTypeID": "17"
+  },
+  {
+    "sessionID": "8991570",
+    "displayName": "Thursday, 04:25 PM",
+    "createDate": "2025-07-17 23:25:33",
+    "appVersion": "iOS_FS Golf_9.4.36",
+    "location": "",
+    "sessionTypeID": "17"
+  },
+  {
+    "sessionID": "8991577",
+    "displayName": "Thursday, 04:13 PM",
+    "createDate": "2025-07-17 23:14:42",
+    "appVersion": "iOS_FS Golf_9.4.36",
+    "location": "",
+    "sessionTypeID": "17"
+  },
+  {
+    "sessionID": "8991579",
+    "displayName": "Wednesday, 09:35 AM",
+    "createDate": "2025-07-16 16:35:34",
+    "appVersion": "iOS_FS Golf_9.4.36",
+    "location": "",
+    "sessionTypeID": "17"
+  },
+  {
+    "sessionID": "8319957",
+    "displayName": "Tuesday, 09:04 AM",
+    "createDate": "2025-07-15 16:04:37",
+    "appVersion": "iOS_FS Golf_9.4.4",
+    "location": "",
+    "sessionTypeID": "17"
+  },
+  {
+    "sessionID": "8991641",
+    "displayName": "Monday, 05:32 PM",
+    "createDate": "2025-07-15 00:38:25",
+    "appVersion": "iOS_FS Golf_9.4.36",
+    "location": "",
+    "sessionTypeID": "17"
+  },
+  {
+    "sessionID": "8991644",
+    "displayName": "Monday, 11:31 AM",
+    "createDate": "2025-07-14 18:31:41",
+    "appVersion": "iOS_FS Golf_9.4.36",
+    "location": "",
+    "sessionTypeID": "17"
+  },
+  {
+    "sessionID": "8317088",
+    "displayName": "Sunday, 09:14 PM",
+    "createDate": "2025-07-14 04:14:14",
+    "appVersion": "iOS_FS Golf_9.2.6",
+    "location": "",
+    "sessionTypeID": "17"
+  },
+  {
+    "sessionID": "8308253",
+    "displayName": "Friday, 02:31 PM",
+    "createDate": "2025-07-11 21:31:10",
+    "appVersion": "iOS_FS Golf_9.2.6",
+    "location": "",
+    "sessionTypeID": "17"
+  },
+  {
+    "sessionID": "8279405",
+    "displayName": "02-Jul-2025 09:09 PM",
+    "createDate": "2025-07-03 04:09:16",
+    "appVersion": "Android_FSGolf_8.4.39",
+    "location": "",
+    "sessionTypeID": "17"
+  },
+  {
+    "sessionID": "8193599",
+    "displayName": "Thursday, 01:10 PM",
+    "createDate": "2025-05-15 20:10:57",
+    "appVersion": "iOS_FS Golf_9.1.44",
+    "location": "",
+    "sessionTypeID": "17"
+  },
+  {
+    "sessionID": "8025919",
+    "displayName": "Friday, 03:12 PM",
+    "createDate": "2025-04-18 22:12:38",
+    "appVersion": "iOS_FS Golf_9.1.0",
+    "location": "",
+    "sessionTypeID": "17"
+  },
+  {
+    "sessionID": "7900644",
+    "displayName": "Wednesday, 06:47 PM",
+    "createDate": "2025-03-20 01:47:02",
+    "appVersion": "iOS_FS Golf_9.1.0",
+    "location": "",
+    "sessionTypeID": "17"
+  },
+  {
+    "sessionID": "7880791",
+    "displayName": "Friday, 04:06 PM",
+    "createDate": "2025-03-14 23:07:48",
+    "appVersion": "iOS_FS Golf_9.1.0",
+    "location": "",
+    "sessionTypeID": "17"
+  },
+  {
+    "sessionID": "7872505",
+    "displayName": "Wednesday, 05:37 PM",
+    "createDate": "2025-03-13 00:38:43",
+    "appVersion": "iOS_FS Golf_9.1.0",
+    "location": "",
+    "sessionTypeID": "17"
+  },
+  {
+    "sessionID": "7872242",
+    "displayName": "Friday, 12:23 PM",
+    "createDate": "2025-02-14 20:24:44",
+    "appVersion": "iOS_FS Golf_9.1.0",
+    "location": "",
+    "sessionTypeID": "17"
+  },
+  {
+    "sessionID": "7882932",
+    "displayName": "Monday, 12:36 PM",
+    "createDate": "2025-02-10 20:37:13",
+    "appVersion": "iOS_FS Golf_9.1.0",
+    "location": "",
+    "sessionTypeID": "17"
+  },
+  {
+    "sessionID": "7632204",
+    "displayName": "Friday, 03:44 PM",
+    "createDate": "2024-12-27 23:45:54",
+    "appVersion": "iOS_FS Golf_8.4.16",
+    "location": "",
+    "sessionTypeID": "17"
+  },
+  {
+    "sessionID": "7617908",
+    "displayName": "Wednesday, 04:11 PM",
+    "createDate": "2024-12-26 00:11:48",
+    "appVersion": "iOS_FS Golf_8.4.16",
+    "location": "",
+    "sessionTypeID": "17"
+  },
+  {
+    "sessionID": "7592297",
+    "displayName": "Saturday, 01:24 PM",
+    "createDate": "2024-12-14 21:24:12",
+    "appVersion": "iOS_FS Golf_9.1.0",
+    "location": "",
+    "sessionTypeID": "17"
+  },
+  {
+    "sessionID": "7882942",
+    "displayName": "Saturday, 10:47 AM",
+    "createDate": "2024-12-14 20:25:43",
+    "appVersion": "iOS_FS Golf_9.1.0",
+    "location": "",
+    "sessionTypeID": "17"
+  },
+  {
+    "sessionID": "7591838",
+    "displayName": "Wednesday, 07:00 PM",
+    "createDate": "2024-12-05 03:03:41",
+    "appVersion": "iOS_FS Golf_8.4.4",
+    "location": "",
+    "sessionTypeID": "17"
+  },
+  {
+    "sessionID": "7557071",
+    "displayName": "Tuesday, 08:39 PM",
+    "createDate": "2024-11-27 04:39:39",
+    "appVersion": "iOS_FS Golf_8.4.0",
+    "location": "",
+    "sessionTypeID": "17"
+  },
+  {
+    "sessionID": "7882975",
+    "displayName": "Monday, 07:58 PM",
+    "createDate": "2024-11-26 03:58:40",
+    "appVersion": "iOS_FS Golf_9.1.0",
+    "location": "",
+    "sessionTypeID": "17"
+  },
+  {
+    "sessionID": "7882984",
+    "displayName": "Saturday, 08:06 PM",
+    "createDate": "2024-11-24 04:06:24",
+    "appVersion": "iOS_FS Golf_9.1.0",
+    "location": "",
+    "sessionTypeID": "17"
+  },
+  {
+    "sessionID": "7883003",
+    "displayName": "PGA/LPGA Competition Friday, 12:58 PM",
+    "createDate": "2024-11-22 20:58:18",
+    "appVersion": "iOS_FS Golf_9.1.0",
+    "location": "",
+    "sessionTypeID": "22"
+  },
+  {
+    "sessionID": "7539993",
+    "displayName": "PGA/LPGA Competition Friday, 12:56 PM",
+    "createDate": "2024-11-22 20:56:09",
+    "appVersion": "iOS_FS Golf_8.4.0",
+    "location": "",
+    "sessionTypeID": "22"
+  },
+  {
+    "sessionID": "7539994",
+    "displayName": "Friday, 12:12 PM",
+    "createDate": "2024-11-22 20:12:51",
+    "appVersion": "iOS_FS Golf_8.4.0",
+    "location": "",
+    "sessionTypeID": "17"
+  },
+  {
+    "sessionID": "7538252",
+    "displayName": "Thursday, 06:50 PM",
+    "createDate": "2024-11-22 02:50:34",
+    "appVersion": "iOS_FS Golf_8.4.0",
+    "location": "",
+    "sessionTypeID": "17"
+  },
+  {
+    "sessionID": "7538259",
+    "displayName": ", Tuesday, 04:59 PM",
+    "createDate": "2024-11-20 01:02:26",
+    "appVersion": "iOS_FS Golf_8.4.0",
+    "location": "",
+    "sessionTypeID": "17"
+  },
+  {
+    "sessionID": "7538151",
+    "displayName": ", Monday, 06:58 PM",
+    "createDate": "2024-11-19 03:00:31",
+    "appVersion": "iOS_FS Golf_8.4.0",
+    "location": "",
+    "sessionTypeID": "17"
+  },
+  {
+    "sessionID": "7526425",
+    "displayName": ", Saturday, 04:53 PM",
+    "createDate": "2024-11-17 00:53:12",
+    "appVersion": "iOS_FS Golf_8.3.0",
+    "location": "",
+    "sessionTypeID": "17"
+  },
+  {
+    "sessionID": "7883007",
+    "displayName": ", Friday, 02:14 PM",
+    "createDate": "2024-11-15 22:16:15",
+    "appVersion": "iOS_FS Golf_9.1.0",
+    "location": "",
+    "sessionTypeID": "17"
+  },
+  {
+    "sessionID": "7528068",
+    "displayName": ", Friday, 05:22 PM",
+    "createDate": "2024-11-09 01:22:53",
+    "appVersion": "iOS_FS Golf_8.3.0",
+    "location": "",
+    "sessionTypeID": "17"
+  },
+  {
+    "sessionID": "7504842",
+    "displayName": ", Wednesday, 07:53 PM",
+    "createDate": "2024-11-07 03:53:42",
+    "appVersion": "iOS_FS Golf_8.3.0",
+    "location": "",
+    "sessionTypeID": "17"
+  },
+  {
+    "sessionID": "7500042",
+    "displayName": ", Monday, 03:24 PM",
+    "createDate": "2024-11-04 23:24:16",
+    "appVersion": "iOS_FS Golf_8.2.0",
+    "location": "",
+    "sessionTypeID": "17"
+  },
+  {
+    "sessionID": "7475815",
+    "displayName": ", Wednesday, 07:34 PM",
+    "createDate": "2024-10-24 02:34:53",
+    "appVersion": "iOS_FS Golf_8.3.0",
+    "location": "",
+    "sessionTypeID": "17"
+  },
+  {
+    "sessionID": "7475782",
+    "displayName": ", Wednesday, 07:13 PM",
+    "createDate": "2024-10-24 02:13:17",
+    "appVersion": "iOS_FS Golf_8.3.0",
+    "location": "",
+    "sessionTypeID": "17"
+  },
+  {
+    "sessionID": "7328388",
+    "displayName": ", Saturday, 10:00 AM",
+    "createDate": "2024-07-20 17:02:04",
+    "appVersion": "iOS_FS Golf_8.2.0",
+    "location": "",
+    "sessionTypeID": "17"
+  },
+  {
+    "sessionID": "7263822",
+    "displayName": ", Friday, 07:30 PM",
+    "createDate": "2024-07-20 02:31:02",
+    "appVersion": "iOS_FS Golf_8.2.0",
+    "location": "",
+    "sessionTypeID": "17"
+  },
+  {
+    "sessionID": "7251499",
+    "displayName": ", Tuesday, 07:49 PM",
+    "createDate": "2024-07-03 02:49:05",
+    "appVersion": "iOS_FS Golf_8.2.0",
+    "location": "",
+    "sessionTypeID": "17"
+  },
+  {
+    "sessionID": "7222781",
+    "displayName": ", Monday, 09:11 AM",
+    "createDate": "2024-07-01 16:12:14",
+    "appVersion": "iOS_FS Golf_8.2.0",
+    "location": "",
+    "sessionTypeID": "17"
+  },
+  {
+    "sessionID": "7215282",
+    "displayName": ", Wednesday, 08:36 PM",
+    "createDate": "2024-06-27 03:37:28",
+    "appVersion": "iOS_FS Golf_8.2.0",
+    "location": "",
+    "sessionTypeID": "17"
+  },
+  {
+    "sessionID": "7213194",
+    "displayName": ", Wednesday, 08:52 AM",
+    "createDate": "2024-06-26 15:53:42",
+    "appVersion": "iOS_FS Golf_8.2.0",
+    "location": "",
+    "sessionTypeID": "17"
+  },
+  {
+    "sessionID": "7211922",
+    "displayName": ", Wednesday, 07:21 PM",
+    "createDate": "2024-06-20 02:22:07",
+    "appVersion": "iOS_FS Golf_8.2.0",
+    "location": "",
+    "sessionTypeID": "17"
+  },
+  {
+    "sessionID": "7197287",
+    "displayName": ", Thursday, 07:31 PM",
+    "createDate": "2024-06-14 02:32:32",
+    "appVersion": "iOS_FS Golf_8.2.0",
+    "location": "",
+    "sessionTypeID": "17"
+  },
+  {
+    "sessionID": "7177900",
+    "displayName": ", Tuesday, 12:57 PM",
+    "createDate": "2024-06-11 19:59:52",
+    "appVersion": "iOS_FS Golf_8.1.0",
+    "location": "",
+    "sessionTypeID": "17"
+  },
+  {
+    "sessionID": "7158910",
+    "displayName": "alex chavez, Sunday, 08:52 PM",
+    "createDate": "2024-06-03 03:52:53",
+    "appVersion": "iOS_FS Golf_8.1.0",
+    "location": "",
+    "sessionTypeID": "17"
+  },
+  {
+    "sessionID": "7177757",
+    "displayName": ", Sunday, 08:00 PM",
+    "createDate": "2024-06-03 03:00:33",
+    "appVersion": "iOS_FS Golf_8.1.0",
+    "location": "",
+    "sessionTypeID": "17"
+  },
+  {
+    "sessionID": "7157730",
+    "displayName": "29-May-2024 12:08 PM",
+    "createDate": "2024-05-29 19:08:40",
+    "appVersion": "Android_FSGolf_8.3.5",
+    "location": "",
+    "sessionTypeID": "17"
+  },
+  {
+    "sessionID": "7147002",
+    "displayName": "alex chavez, Wednesday, 07:50 AM",
+    "createDate": "2024-05-29 14:52:06",
+    "appVersion": "iOS_FS Golf_8.1.0",
+    "location": "",
+    "sessionTypeID": "17"
+  },
+  {
+    "sessionID": "7209257",
+    "displayName": "alex chavez, Tuesday, 02:36 PM",
+    "createDate": "2024-05-28 21:37:21",
+    "appVersion": "iOS_FS Golf_8.2.0",
+    "location": "",
+    "sessionTypeID": "17"
+  },
+  {
+    "sessionID": "7157732",
+    "displayName": "27-May-2024 03:54 PM",
+    "createDate": "2024-05-27 22:54:36",
+    "appVersion": "Android_FSGolf_8.3.5",
+    "location": "38.358833,-122.484055",
+    "sessionTypeID": "17"
+  },
+  {
+    "sessionID": "7142017",
+    "displayName": "27-May-2024 02:53 PM",
+    "createDate": "2024-05-27 21:55:02",
+    "appVersion": "Android_FSGolf_8.3.5",
+    "location": "38.358814,-122.48408",
+    "sessionTypeID": "17"
+  },
+  {
+    "sessionID": "7143731",
+    "displayName": "alex chavez, Monday, 10:47 AM",
+    "createDate": "2024-05-27 17:49:42",
+    "appVersion": "iOS_FS Golf_8.1.0",
+    "location": "",
+    "sessionTypeID": "17"
+  },
+  {
+    "sessionID": "7121535",
+    "displayName": "alex chavez, Sunday, 09:13 AM",
+    "createDate": "2024-05-19 17:39:57",
+    "appVersion": "iOS_FS Golf_8.1.0",
+    "location": "",
+    "sessionTypeID": "17"
+  },
+  {
+    "sessionID": "7121231",
+    "displayName": "alex chavez, Sunday, 07:39 AM",
+    "createDate": "2024-05-19 14:56:01",
+    "appVersion": "iOS_FS Golf_8.1.0",
+    "location": "",
+    "sessionTypeID": "17"
+  },
+  {
+    "sessionID": "7118807",
+    "displayName": "alex chavez, Friday, 09:14 PM",
+    "createDate": "2024-05-18 04:14:37",
+    "appVersion": "iOS_FS Golf_8.1.0",
+    "location": "",
+    "sessionTypeID": "17"
+  },
+  {
+    "sessionID": "7114982",
+    "displayName": "alex chavez, Thursday, 10:05 PM",
+    "createDate": "2024-05-17 05:05:24",
+    "appVersion": "iOS_FS Golf_8.1.0",
+    "location": "",
+    "sessionTypeID": "17"
+  },
+  {
+    "sessionID": "7119960",
+    "displayName": "alex chavez, Thursday, 09:05 PM",
+    "createDate": "2024-05-17 04:07:09",
+    "appVersion": "iOS_FS Golf_8.1.0",
+    "location": "",
+    "sessionTypeID": "17"
+  },
+  {
+    "sessionID": "7105092",
+    "displayName": "alex chavez, Sunday, 07:12 PM",
+    "createDate": "2024-05-13 02:13:51",
+    "appVersion": "iOS_FS Golf_8.0.0",
+    "location": "",
+    "sessionTypeID": "17"
+  },
+  {
+    "sessionID": "7104373",
+    "displayName": "alex chavez, Thursday, 09:20 PM",
+    "createDate": "2024-05-10 04:21:08",
+    "appVersion": "iOS_FS Golf_8.0.0",
+    "location": "",
+    "sessionTypeID": "17"
+  },
+  {
+    "sessionID": "7097503",
+    "displayName": "alex chavez, Thursday, 09:43 AM",
+    "createDate": "2024-05-09 16:45:16",
+    "appVersion": "iOS_FS Golf_8.0.0",
+    "location": "",
+    "sessionTypeID": "17"
+  },
+  {
+    "sessionID": "7096033",
+    "displayName": "alex chavez, Wednesday, 08:12 AM",
+    "createDate": "2024-05-08 15:13:43",
+    "appVersion": "iOS_FS Golf_8.0.0",
+    "location": "",
+    "sessionTypeID": "17"
+  },
+  {
+    "sessionID": "7097506",
+    "displayName": "alex chavez, Monday, 11:18 AM",
+    "createDate": "2024-05-06 18:20:46",
+    "appVersion": "iOS_FS Golf_8.0.0",
+    "location": "",
+    "sessionTypeID": "17"
+  },
+  {
+    "sessionID": "7097507",
+    "displayName": "warmup",
+    "createDate": "2024-05-06 17:30:41",
+    "appVersion": "iOS_FS Golf_8.0.0",
+    "location": "",
+    "sessionTypeID": "17"
+  },
+  {
+    "sessionID": "7088522",
+    "displayName": "alex chavez, Sunday, 07:01 AM",
+    "createDate": "2024-05-05 14:02:06",
+    "appVersion": "iOS_FS Golf_8.0.0",
+    "location": "",
+    "sessionTypeID": "17"
+  },
+  {
+    "sessionID": "7086548",
+    "displayName": "alex chavez, Saturday, 03:13 PM",
+    "createDate": "2024-05-04 22:14:00",
+    "appVersion": "iOS_FS Golf_8.0.0",
+    "location": "",
+    "sessionTypeID": "17"
+  },
+  {
+    "sessionID": "7097512",
+    "displayName": "alex chavez, Saturday, 02:11 PM",
+    "createDate": "2024-05-04 21:20:41",
+    "appVersion": "iOS_FS Golf_8.0.0",
+    "location": "",
+    "sessionTypeID": "17"
+  },
+  {
+    "sessionID": "7084930",
+    "displayName": "04-May-2024 08:33 AM",
+    "createDate": "2024-05-04 15:37:27",
+    "appVersion": "Android_FSGolf_8.3.5",
+    "location": "37.75235,-122.45186",
+    "sessionTypeID": "17"
+  },
+  {
+    "sessionID": "7083018",
+    "displayName": "03-May-2024 10:42 PM",
+    "createDate": "2024-05-04 05:45:39",
+    "appVersion": "Android_FSGolf_8.3.5",
+    "location": "",
+    "sessionTypeID": "17"
+  },
+  {
+    "sessionID": "7082915",
+    "displayName": "02-May-2024 09:27 PM",
+    "createDate": "2024-05-03 04:27:12",
+    "appVersion": "Android_FSGolf_8.3.5",
+    "location": "37.752357,-122.45202",
+    "sessionTypeID": "17"
+  }
+]

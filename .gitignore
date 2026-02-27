@@ -1,0 +1,24 @@
+# Credentials — NEVER commit these
+.env
+*.env
+
+# Too large for GitHub (149MB)
+shots_all.json
+
+# Debug screenshots and scratch files
+*.png
+*.html
+login_page*
+main_page*
+after_login*
+data_menu*
+session_page*
+debug_*
+
+# Intermediate exploration files
+api_responses.json
+api_interactions.json
+sessions_raw.xml
+shots_getSessionShots.xml
+all_sessions.xml
+session_api_calls.json
